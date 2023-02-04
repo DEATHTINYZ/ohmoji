@@ -9,14 +9,14 @@ export default function Head() {
       ></meta>
       <meta
         name="description"
-        content="Custom emoji are fun and useful. Here are some premium custom emojis that you can use in Slack and Discord."
+        content="A fun and interactive emoji collection website for sharing and copying your favorite emojis."
       />
       <meta property="og:title" content="Ohmoji" />
       <meta property="og:url" content="https://ohmoji.vercel.app/" />
       <meta property="og:type" content="website" />
       <meta
         property="og:description"
-        content="Custom emoji are fun and useful. Here are some premium custom emojis that you can use in Slack and Discord."
+        content="A fun and interactive emoji collection website for sharing and copying your favorite emojis."
       />
       <link
         rel="apple-touch-icon"
@@ -45,7 +45,7 @@ export default function Head() {
       <meta property="og:title" content="Ohmoji" />
       <meta
         property="og:description"
-        content="Custom emoji are fun and useful. Here are some premium custom emojis that you can use in Slack and Discord."
+        content="A fun and interactive emoji collection website for sharing and copying your favorite emojis."
       />
       <meta property="og:image" content="/assets/image.png" />
 
@@ -56,7 +56,7 @@ export default function Head() {
       <meta name="twitter:title" content="Ohmoji" />
       <meta
         name="twitter:description"
-        content="Custom emoji are fun and useful. Here are some premium custom emojis that you can use in Slack and Discord."
+        content="A fun and interactive emoji collection website for sharing and copying your favorite emojis."
       />
       <meta name="twitter:image" content="/assets/image.png" />
     </>
