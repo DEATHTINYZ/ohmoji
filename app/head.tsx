@@ -5,7 +5,7 @@ export default function Head() {
       <meta content="width=device-width, initial-scale=1" name="viewport" />
       <meta
         name="keywords"
-        content="emoji, emoji search, HTML, CSS, JavaScript, ReactJs, NextJs"
+        content="ohmoji, emoji, emoticon, icon, sticker, chat, social media, fun, communication, online messaging"
       ></meta>
       <meta
         name="description"
@@ -39,6 +39,26 @@ export default function Head() {
       <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
       <meta name="msapplication-TileColor" content="#da532c" />
       <meta name="theme-color" content="#ffffff" />
+
+      {/* <!-- Facebook Meta Tags --> */}
+      <meta property="og:url" content="https://ohmoji.vercel.app/" />
+      <meta property="og:title" content="Ohmoji" />
+      <meta
+        property="og:description"
+        content="Custom emoji are fun and useful. Here are some premium custom emojis that you can use in Slack and Discord."
+      />
+      <meta property="og:image" content="/assets/image.png" />
+
+      {/* <!-- Twitter Meta Tags --> */}
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta property="twitter:domain" content="ohmoji.vercel.app/" />
+      <meta property="twitter:url" content="https://ohmoji.vercel.app/" />
+      <meta name="twitter:title" content="Ohmoji" />
+      <meta
+        name="twitter:description"
+        content="Custom emoji are fun and useful. Here are some premium custom emojis that you can use in Slack and Discord."
+      />
+      <meta name="twitter:image" content="/assets/image.png" />
     </>
   )
 }
