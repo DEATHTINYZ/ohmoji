@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/github/last-commit/DEATHTINYZ/ohmoji?" alt="Badge showing when the last commit was made"/>
   </a>
 
-  <img src='https://wakatime.com/badge/user/59564192-3b33-4d25-b612-a7ef7bd0c4d7/project/465c8a05-e8a0-4214-b1c4-9ab2b086bc19.svg' />
+  <img src='https://wakatime.com/badge/user/59564192-3b33-4d25-b612-a7ef7bd0c4d7/project/f27bec47-c75f-42ec-8568-16e6ca42a2ce.svg' />
 </p>
 
 <!-- <p align="center">
