@@ -14,7 +14,7 @@ const Hero = () => {
             OHMOJI
           </div>
           <div className="text-[#050505]">
-            The best custom emojis for your Slack or Discord.
+            A fun and interactive emoji collection website for sharing and copying your favorite emojis.
           </div>
           <div className="flex gap-[1.2rem] mt-[1rem]">
             <a
